@@ -1,6 +1,3 @@
-2019-12-15 10:19:26,799 [17680] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
-2019-12-15 10:19:26,800 [17680] DEBUG    root:95: [JupyterRequire] Initializing comms.
-2019-12-15 10:19:26,806 [17680] DEBUG    root:99: [JupyterRequire] Registering comm targets.
-2019-12-16 02:48:24,927 [1928] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
-2019-12-16 02:48:24,927 [1928] DEBUG    root:95: [JupyterRequire] Initializing comms.
-2019-12-16 02:48:24,929 [1928] DEBUG    root:99: [JupyterRequire] Registering comm targets.
+2019-12-16 03:25:21,641 [9140] DEBUG    root:77: [JupyterRequire] Loading Jupyter Require extension.
+2019-12-16 03:25:21,642 [9140] DEBUG    root:95: [JupyterRequire] Initializing comms.
+2019-12-16 03:25:21,646 [9140] DEBUG    root:99: [JupyterRequire] Registering comm targets.
