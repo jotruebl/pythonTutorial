@@ -1,0 +1,230 @@
+﻿name;species name;has fur?;legs;eyes;species best quality;species worst quality;opposable thumbs;species popularity rating (1-100);weight (kg);max speed (m/s);sex
+Claire;sea turtle;no;0;2;serene;endangered;no;90;150.00;9.8;female
+Earl;oyster;no;0;40;make pearls;hurt to step on;no;40;0.08;0;male
+Ashley;oyster;no;0;200;make pearls;hurt to step on;no;40;0.05;0;female
+Sandy;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;32.00;33;female
+Elvira;spider;no;8;8;kill insects;bite humans;no;10;0.01;0.76;female
+Amanda;bald eagle;no;2;2;cool appearance;noisy;no;60;6.00;29;female
+Ollie;oyster;no;0;100;make pearls;hurt to step on;no;40;0.06;0;male
+Shiva;spider;no;8;6;kill insects;bite humans;no;10;0.00;0.32;male
+Chance;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;61.00;30;male
+Sammy;sea turtle;no;0;2;serene;endangered;no;90;116.00;10;male
+Nicole;sea turtle;no;0;2;serene;endangered;no;90;115.00;8;female
+Billy;spider;no;8;8;kill insects;bite humans;no;10;1.00;1;male
+Fanny;sea turtle;no;0;2;serene;endangered;no;90;147.00;6;female
+Gerald;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;26.00;29;male
+Tristan;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;32.00;30;male
+Angela;spider;no;8;8;kill insects;bite humans;no;10;1.00;1;female
+Charles;bald eagle;no;2;2;cool appearance;noisy;no;60;4.00;25;male
+Mary;bald eagle;no;2;2;cool appearance;noisy;no;60;6.00;20;female
+Anne;bald eagle;no;2;2;cool appearance;noisy;no;60;6.00;20;female
+JoJo;bald eagle;no;2;2;cool appearance;noisy;no;60;4.00;29;female
+Cindy;shark;no;0;2;prevent overgrazing;try to kill you;no;20;693.00;9;female
+Roberta;human;no;2;2;intelligent;pollute;yes;50;62.00;7;female
+Ruth;cat;yes;4;2;soft;mean;no;75;4.00;11;female
+Josh;dog;yes;4;2;friendly;messy;no;90;33.00;16;male
+Vladimir;dog;yes;4;2;friendly;messy;no;90;4.00;13;male
+Cherie;dog;yes;4;2;friendly;messy;no;90;19.00;15;female
+Lucca;dog;yes;4;2;friendly;messy;no;90;32.00;11;male
+Alessia;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Gabrielius;cat;yes;4;2;soft;mean;no;70;4.00;12;male
+Pierce;shark;no;0;2;prevent overgrazing;try to kill you;no;20;854.00;10;male
+Keith;human;no;2;2;intelligent;pollute;yes;50;79.00;11;male
+Sammy;dog;yes;4;2;friendly;messy;no;90;23.00;13;male
+John;dog;yes;4;2;friendly;messy;no;91;25.00;19;male
+George;dog;yes;4;2;friendly;messy;no;92;28.00;19;male
+Ryan;dog;yes;4;2;friendly;messy;no;93;29.00;15;male
+Mike;dog;yes;4;2;friendly;messy;no;94;25.00;18;male
+Hannah;dog;yes;4;2;friendly;messy;no;95;24.00;12;female
+Grace;dog;yes;4;2;friendly;messy;no;96;25.00;15;female
+Tracy;dog;yes;4;2;friendly;messy;no;97;19.00;14;female
+Betsy;dog;yes;4;2;friendly;messy;no;98;31.00;13;female
+Mary;dog;yes;4;2;friendly;messy;no;99;9.00;11;female
+Alessia;dog;yes;4;2;friendly;messy;no;100;7.00;20;female
+Ashley;dog;yes;4;2;friendly;messy;no;101;25.00;18;female
+Fanny;dog;yes;4;2;friendly;messy;no;102;16.00;20;female
+Tiff;dog;yes;4;2;friendly;messy;no;103;27.00;16;female
+Polly;dog;yes;4;2;friendly;messy;no;104;5.00;14;female
+Hannah;dog;yes;4;2;friendly;messy;no;105;25.00;13;female
+Alessia;dog;yes;4;2;friendly;messy;no;106;38.00;12;female
+Alex;dog;yes;4;2;friendly;messy;no;107;33.00;19;female
+Karen;dog;yes;4;2;friendly;messy;no;108;30.00;13;female
+Kate;dog;yes;4;2;friendly;messy;no;109;37.00;17;female
+Timmy;dog;yes;4;2;friendly;messy;no;110;7.00;12;male
+Jimmy;dog;yes;4;2;friendly;messy;no;111;10.00;13;male
+Bob;dog;yes;4;2;friendly;messy;no;112;25.00;17;male
+Richard;dog;yes;4;2;friendly;messy;no;113;18.00;13;male
+Stuart;dog;yes;4;2;friendly;messy;no;114;34.00;19;male
+Stewart;dog;yes;4;2;friendly;messy;no;115;31.00;13;male
+Max;dog;yes;4;2;friendly;messy;no;116;11.00;12;male
+Gunner;dog;yes;4;2;friendly;messy;no;117;9.00;18;male
+Spike;dog;yes;4;2;friendly;messy;no;118;26.00;13;male
+Buddy;dog;yes;4;2;friendly;messy;no;119;13.00;13;male
+Star;dog;yes;4;2;friendly;messy;no;120;4.00;20;female
+Spot;dog;yes;4;2;friendly;messy;no;121;38.00;15;female
+Becky;dog;yes;4;2;friendly;messy;no;122;30.00;16;female
+Kori;dog;yes;4;2;friendly;messy;no;123;9.00;20;female
+Sam;dog;yes;4;2;friendly;messy;no;124;28.00;14;female
+Shada;dog;yes;4;2;friendly;messy;no;125;14.00;12;female
+Alex;dog;yes;4;2;friendly;messy;no;126;9.00;11;female
+Bruce;human;no;2;2;intelligent;pollute;yes;50;63.00;9;male
+Hamza;human;no;2;2;intelligent;pollute;yes;51;77.00;7;male
+Brian;human;no;2;2;intelligent;pollute;yes;52;45.00;9;male
+Archie;human;no;2;2;intelligent;pollute;yes;53;86.00;8;male
+Shane;human;no;2;2;intelligent;pollute;yes;54;79.00;11;male
+Gary;human;no;2;2;intelligent;pollute;yes;55;49.00;12;male
+Tony;human;no;2;2;intelligent;pollute;yes;56;90.00;9;male
+Simon;human;no;2;2;intelligent;pollute;yes;57;45.00;11;male
+Killian;human;no;2;2;intelligent;pollute;yes;58;85.00;7;male
+Emery;human;no;2;2;intelligent;pollute;yes;59;90.00;8;male
+Saul;human;no;2;2;intelligent;pollute;yes;60;48.00;12;male
+Tate;human;no;2;2;intelligent;pollute;yes;61;87.00;9;male
+Parker;human;no;2;2;intelligent;pollute;yes;62;58.00;8;male
+Keon;human;no;2;2;intelligent;pollute;yes;63;86.00;12;male
+Jude;human;no;2;2;intelligent;pollute;yes;64;51.00;12;male
+Bryan;human;no;2;2;intelligent;pollute;yes;65;71.00;10;male
+Sam;human;no;2;2;intelligent;pollute;yes;66;56.00;7;female
+Karen;human;no;2;2;intelligent;pollute;yes;67;72.00;9;female
+Cadence;human;no;2;2;intelligent;pollute;yes;68;66.00;9;female
+Pam;human;no;2;2;intelligent;pollute;yes;69;78.00;10;female
+Elsa;human;no;2;2;intelligent;pollute;yes;70;85.00;10;female
+Diamond;human;no;2;2;intelligent;pollute;yes;71;47.00;11;female
+Alyssa;human;no;2;2;intelligent;pollute;yes;72;70.00;10;female
+Celeste;human;no;2;2;intelligent;pollute;yes;73;89.00;8;female
+Aryana;human;no;2;2;intelligent;pollute;yes;74;63.00;11;female
+Aisha;human;no;2;2;intelligent;pollute;yes;75;51.00;10;female
+Nancy;human;no;2;2;intelligent;pollute;yes;76;45.00;10;female
+Janelle;human;no;2;2;intelligent;pollute;yes;77;40.00;7;female
+Amelia;human;no;2;2;intelligent;pollute;yes;78;80.00;11;female
+Diana;human;no;2;2;intelligent;pollute;yes;79;51.00;8;female
+Amya;human;no;2;2;intelligent;pollute;yes;80;48.00;7;female
+Aaliya;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Chelsea;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Raquel;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Krystal;cat;yes;4;2;soft;mean;no;70;4.00;13;female
+Yuliana;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Maci;cat;yes;4;2;soft;mean;no;70;4.00;13;female
+Jaylin;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Payten;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Giselle;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Harper;cat;yes;4;2;soft;mean;no;70;4.00;13;female
+Alannah;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Erika;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Sarai;cat;yes;4;2;soft;mean;no;70;4.00;13;female
+Beth;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Alma;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Shayla;cat;yes;4;2;soft;mean;no;70;4.00;13;female
+Scarlette;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Lucia;cat;yes;4;2;soft;mean;no;70;4.00;12;female
+Jayla;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Shaylee;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Raven;cat;yes;4;2;soft;mean;no;70;4.00;11;female
+Jasiah;cat;yes;4;2;soft;mean;no;70;5.00;12;male
+Draven;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Davion;cat;yes;4;2;soft;mean;no;70;5.00;12;male
+Isaias;cat;yes;4;2;soft;mean;no;70;5.00;11;male
+Nikhil;cat;yes;4;2;soft;mean;no;70;4.00;13;male
+Nick;cat;yes;4;2;soft;mean;no;70;4.00;12;male
+Marques;cat;yes;4;2;soft;mean;no;70;4.00;12;male
+Mark;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Van;cat;yes;4;2;soft;mean;no;70;4.00;13;male
+Braylen;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Lorenzo;cat;yes;4;2;soft;mean;no;70;5.00;12;male
+Gil;cat;yes;4;2;soft;mean;no;70;4.00;11;male
+Doug;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Malaki;cat;yes;4;2;soft;mean;no;70;4.00;12;male
+Damarion;cat;yes;4;2;soft;mean;no;70;5.00;11;male
+Maddox;cat;yes;4;2;soft;mean;no;70;5.00;11;male
+Malcolm;cat;yes;4;2;soft;mean;no;70;5.00;11;male
+Jeremy;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Gerome;cat;yes;4;2;soft;mean;no;70;5.00;13;male
+Davion;cat;yes;4;2;soft;mean;no;70;4.00;13;male
+Cindy;shark;no;0;2;prevent overgrazing;try to kill you;no;20;1074.00;11;female
+Adelaide;shark;no;0;2;prevent overgrazing;try to kill you;no;21;864.00;12;female
+Danika;shark;no;0;2;prevent overgrazing;try to kill you;no;22;754.00;11;female
+Alannah;shark;no;0;2;prevent overgrazing;try to kill you;no;23;801.00;9;female
+Ariana;shark;no;0;2;prevent overgrazing;try to kill you;no;24;758.00;8;female
+Yazmin;shark;no;0;2;prevent overgrazing;try to kill you;no;25;649.00;11;female
+Sebastian;shark;no;0;2;prevent overgrazing;try to kill you;no;26;650.00;11;male
+Ken;shark;no;0;2;prevent overgrazing;try to kill you;no;27;889.00;10;male
+Fred;shark;no;0;2;prevent overgrazing;try to kill you;no;28;673.00;12;male
+Asher;shark;no;0;2;prevent overgrazing;try to kill you;no;29;1020.00;9;male
+Ali;shark;no;0;2;prevent overgrazing;try to kill you;no;30;988.00;9;male
+Will;shark;no;0;2;prevent overgrazing;try to kill you;no;31;956.00;11;male
+Devin;shark;no;0;2;prevent overgrazing;try to kill you;no;32;619.00;9;male
+Colin;shark;no;0;2;prevent overgrazing;try to kill you;no;33;1078.00;12;male
+Rohan;spider;no;8;8;kill insects;bite humans;no;10;0.01;1;male
+German;spider;no;8;8;kill insects;bite humans;no;11;0.00;1;male
+Desmond;spider;no;8;8;kill insects;bite humans;no;12;0.01;1;male
+Valentino;spider;no;8;8;kill insects;bite humans;no;13;0.00;1;male
+Omar;spider;no;8;8;kill insects;bite humans;no;14;0.01;1;male
+Brad;spider;no;8;8;kill insects;bite humans;no;15;0.01;1;male
+Harry;spider;no;8;8;kill insects;bite humans;no;16;0.06;1;male
+Thom;spider;no;8;8;kill insects;bite humans;no;17;0.02;1;male
+Franco;spider;no;8;8;kill insects;bite humans;no;18;0.00;1;male
+Jax;spider;no;8;8;kill insects;bite humans;no;19;0.01;1;male
+Micah;spider;no;8;8;kill insects;bite humans;no;20;0.00;1;male
+Ayden;spider;no;8;8;kill insects;bite humans;no;21;0.02;1;male
+Jordon;spider;no;8;8;kill insects;bite humans;no;22;0.07;1;male
+Trent;spider;no;8;8;kill insects;bite humans;no;23;0.05;1;male
+Ian;spider;no;8;8;kill insects;bite humans;no;24;0.07;1;male
+Steve;spider;no;8;8;kill insects;bite humans;no;25;0.06;1;male
+Alexis;spider;no;8;8;kill insects;bite humans;no;10;0.01;1;female
+Sarahi;spider;no;8;8;kill insects;bite humans;no;11;0.05;1;female
+Paris;spider;no;8;8;kill insects;bite humans;no;12;0.05;1;female
+Janiyah;spider;no;8;8;kill insects;bite humans;no;13;0.03;1;female
+Leslie;spider;no;8;8;kill insects;bite humans;no;14;0.02;1;female
+Rose;spider;no;8;8;kill insects;bite humans;no;15;0.05;1;female
+Alisa;spider;no;8;8;kill insects;bite humans;no;16;0.09;1;female
+Valery;spider;no;8;8;kill insects;bite humans;no;17;0.09;1;female
+Kristin;spider;no;8;8;kill insects;bite humans;no;18;0.02;1;female
+Angie;spider;no;8;8;kill insects;bite humans;no;19;0.09;1;female
+Evelin;spider;no;8;8;kill insects;bite humans;no;20;0.04;1;female
+Leslie;spider;no;8;8;kill insects;bite humans;no;21;0.10;1;female
+Gabriela;spider;no;8;8;kill insects;bite humans;no;22;0.10;1;female
+Deja;spider;no;8;8;kill insects;bite humans;no;23;0.01;1;female
+Veronica;spider;no;8;8;kill insects;bite humans;no;24;0.07;1;female
+Leah;spider;no;8;8;kill insects;bite humans;no;25;0.07;1;female
+Gil;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;30.00;28;male
+Immanuel;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;71;44.00;25;male
+Zaiden;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;72;71.00;28;male
+Isaiah;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;73;62.00;25;male
+Dax;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;74;29.00;31;male
+Pedro;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;75;25.00;31;male
+Ronnie;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;76;25.00;28;male
+Michael;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;77;29.00;28;male
+Ben;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;78;58.00;33;male
+Alina;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;70;41.00;29;female
+Cassie;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;71;30.00;31;female
+Joanna;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;72;67.00;27;female
+Caitlin;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;73;38.00;31;female
+Dianne;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;74;49.00;26;female
+Shania;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;75;37.00;27;female
+Harper;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;76;69.00;30;female
+Alivia;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;77;49.00;32;female
+Michelle;cheetah;yes;4;2;fast;prone to social anxiety (seriously);no;78;31.00;27;female
+Marques;bald eagle;no;2;2;cool appearance;noisy;no;60;4.00;25;male
+Mark;bald eagle;no;2;2;cool appearance;noisy;no;61;5.00;30;male
+Van;bald eagle;no;2;2;cool appearance;noisy;no;62;4.00;21;male
+Braylen;bald eagle;no;2;2;cool appearance;noisy;no;63;4.00;27;male
+Lorenzo;bald eagle;no;2;2;cool appearance;noisy;no;64;5.00;30;male
+Gil;bald eagle;no;2;2;cool appearance;noisy;no;65;5.00;25;male
+Doug;bald eagle;no;2;2;cool appearance;noisy;no;66;5.00;27;male
+Malaki;bald eagle;no;2;2;cool appearance;noisy;no;67;6.00;21;male
+Damarion;bald eagle;no;2;2;cool appearance;noisy;no;68;4.00;24;male
+Maddox;bald eagle;no;2;2;cool appearance;noisy;no;69;4.00;29;male
+Sam;bald eagle;no;2;2;cool appearance;noisy;no;70;6.00;28;female
+Karen;bald eagle;no;2;2;cool appearance;noisy;no;71;4.00;25;female
+Cadence;bald eagle;no;2;2;cool appearance;noisy;no;72;5.00;29;female
+Pam;bald eagle;no;2;2;cool appearance;noisy;no;73;5.00;24;female
+Elsa;bald eagle;no;2;2;cool appearance;noisy;no;74;6.00;20;female
+Diamond;bald eagle;no;2;2;cool appearance;noisy;no;75;4.00;27;female
+Alyssa;bald eagle;no;2;2;cool appearance;noisy;no;76;5.00;26;female
+Celeste;bald eagle;no;2;2;cool appearance;noisy;no;77;5.00;27;female
+Aryana;bald eagle;no;2;2;cool appearance;noisy;no;78;4.00;22;female
+Aisha;bald eagle;no;2;2;cool appearance;noisy;no;79;5.00;23;female
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
