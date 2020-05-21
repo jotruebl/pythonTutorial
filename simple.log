@@ -1,0 +1,9 @@
+INFO:root:Ran with args (5, 3) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1, {'jon': 5}) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1, {'jon': 'is cool'}) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1, {'jon': 'is cool'}) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1, {'jon': 'is cool'}) and {}
+INFO:root:Ran with args (5, 3, 6, 2, 1) and {'jon': 'cool'}
